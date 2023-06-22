@@ -12,4 +12,4 @@ Responsive personal portfolio website design using **HTML**, **CSS** and **JavaS
 
 ## Access
 
-Click [HERE](#) to open the portfolio website hosted on ***Netlify***.
+Click [HERE](https://portfolio-lucaslopes.netlify.app/) to open the portfolio website hosted on ***Netlify***.
